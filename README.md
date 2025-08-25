@@ -80,10 +80,27 @@ Participo activamente en colaboraciones multidisciplinarias, tanto nacionales co
 
 ## 🤝 Let’s Connect | Contacto  
 
-[![Scopus](https://img.shields.io/badge/Scopus-Elsevier-orange?style=flat&logo=elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=23395973700)  
-[![ResearcherID](https://img.shields.io/badge/Web%20of%20Science-ResearcherID-blue?style=flat&logo=clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/K-4847-2013)  
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ZLaDTq0AAAAJ&hl=es)  
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--8627--4739-a6ce39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8627-4739)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amadeo%20Argüelles-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amadeomx/?trk=public-profile-join-page)  
-[![Email](https://img.shields.io/badge/Email-aarguelles%40ipn.mx-red?style=flat&logo=gmail&logoColor=white)](mailto:aarguelles@ipn.mx)  
-  
+
+<a href="https://www.scopus.com/authid/detail.uri?authorId=23395973700" target="_blank">
+  <img src="https://img.shields.io/badge/Scopus-Elsevier-orange?style=flat&logo=elsevier&logoColor=white" alt="Scopus"/>
+</a>  
+
+<a href="https://www.webofscience.com/wos/author/record/K-4847-2013" target="_blank">
+  <img src="https://img.shields.io/badge/Web%20of%20Science-ResearcherID-blue?style=flat&logo=clarivate&logoColor=white" alt="ResearcherID"/>
+</a>  
+
+<a href="https://scholar.google.com/citations?user=ZLaDTq0AAAAJ&hl=es" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
+</a>  
+
+<a href="https://orcid.org/0000-0001-8627-4739" target="_blank">
+  <img src="https://img.shields.io/badge/ORCID-0000--0001--8627--4739-a6ce39?style=flat&logo=orcid&logoColor=white" alt="ORCID"/>
+</a>  
+
+<a href="https://www.linkedin.com/in/amadeomx/?trk=public-profile-join-page" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Amadeo%20Argüelles-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>  
+
+<a href="mailto:aarguelles@ipn.mx" target="_blank">
+  <img src="https://img.shields.io/badge/Email-aarguelles%40ipn.mx-red?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+</a> 
