@@ -1,9 +1,11 @@
 # 👋 Welcome! I’m Amadeo Arguelles, PhD Computer Science
 
-🎓 **Full-time Faculty Researcher** at the *Centro de Investigación en Computación (CIC), Instituto Politécnico Nacional (IPN), Mexico City*  
+🎓 **Full-time Faculty Researcher** at the *Centro de Investigación en Computación (CIC), Instituto Politécnico Nacional (IPN), Mexico City*
+
 🔬 Member of the **National System of Researchers (SNII – Level II, SECIHTI)** 
 
 🏛️ National Memberships: **Academia de Ingenieria de Mexico**   
+
 🌐 International Memberships: **IEEE Senior** | **ACM** | **INNS**  
 
 I am actively engaged in multidisciplinary collaborations, both nationally and internationally, focusing on artificial intelligence, computational intelligence, mobility, digital twins, sustainable development & lifelong learning.  
