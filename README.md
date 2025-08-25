@@ -3,7 +3,7 @@
 🎓 Full-time Faculty Researcher at the **Centro de Investigación en Computación (CIC), Instituto Politécnico Nacional (IPN), Mexico City**.  
 🔬 Researcher at **SECIHTI--SNII Level II** | Member of the Academia de Ingenieria Mexico | Senior Member of the **IEEE**, **ACM**, **INNS**.  
 🌍 Active collaborator with the following institutions:
-- Mexican National Endeavors: [SECIHTI - LANCEI](https://cv.cicataqro.ipn.mx/dsm/index.php/biocq/about), [SECTEI - BINOMIO IFE (Tecnologico de Monterrey) - IPN](www.ecoemprende.net), [LúmiaLab - Universidad de Guadalajara Virtual](https://investigacion.udgvirtual.udg.mx/) [Fonoteca Nacional](https://www.gob.mx/cultura/acciones-y-programas/fonoteca-nacional). 
+- Mexican National Endeavors: [SECIHTI - LANCEI](https://cv.cicataqro.ipn.mx/dsm/index.php/biocq/about), [SECTEI - BINOMIO IFE (Tecnologico de Monterrey) - IPN](www.ecoemprende.net), [LúmiaLab - Universidad de Guadalajara Virtual](https://investigacion.udgvirtual.udg.mx/), [Fonoteca Nacional](https://www.gob.mx/cultura/acciones-y-programas/fonoteca-nacional). 
 - International alliances: [Universidad de Mondragon](https://www.mondragon.edu/es/inicio), [IEEE Computational Intelligence in Latin America Task Force](https://cis.ieee.org/conferences/task-forces/computational-intelligence-in-latin-america-task-force), [Senseable City Lab, MIT](https://senseable.mit.edu/), [City Science Lab, MIT](https://www.media.mit.edu/projects/city-science-network/overview/), [GRoup of InterAction and e-Learning (GRIAL) of the University of Salamanca](https://grial.usal.es/about), and the [ACM Education Advisory Committee (EAC)](https://www.acm.org/volunteers/teams/T84?clientNo=4218855&positionId=1221).  
 
 ## 🔎 Research Interests
