@@ -1,8 +1,10 @@
 # 👋 Hi, I’m Dr. Amadeo José Argüelles Cruz  
 
 🎓 Full-time Faculty Researcher at the **Centro de Investigación en Computación (CIC), Instituto Politécnico Nacional (IPN), Mexico City**.  
-🔬 Researcher at **SNII Level II** | Member of the **Academia de Ingeniería de México**.  
-🌍 Active collaborator in **IEEE**, **INNS**, and **ACM**.  
+🔬 Researcher at **SECIHTI--SNII Level II** | Member of the Academia de Ingenieria Mexico | Senior Member of the **IEEE**, **ACM**, **INNS**.  
+🌍 Active collaborator with the following institutions:
+- Mexican National Endeavors: [LANCEI](https://cv.cicataqro.ipn.mx/dsm/index.php/biocq/about), [Instituto para el Futuro de la Educacion - Tecnologico de Monterrey](www.ecoemprende.net), [Fonoteca Nacional](https://www.gob.mx/cultura/acciones-y-programas/fonoteca-nacional),
+- International alliances: [Universidad de Mondragon](https://www.mondragon.edu/es/inicio), [IEEE Computational Intelligence in Latin America Task Force](https://cis.ieee.org/conferences/task-forces/computational-intelligence-in-latin-america-task-force), [Senseable City Lab](https://senseable.mit.edu/), [City Science Lab](https://www.media.mit.edu/projects/city-science-network/overview/), [GRoup of InterAction and e-Learning (GRIAL) of the University of Salamanca](https://grial.usal.es/about), and the [ACM Education Advisory Committee (EAC)](https://www.acm.org/volunteers/teams/T84?clientNo=4218855&positionId=1221).  
 
 ## 🔎 Research Interests
 - Artificial Intelligence & Computational Intelligence  
