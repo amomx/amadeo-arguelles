@@ -25,13 +25,13 @@ Participo activamente en colaboraciones multidisciplinarias, tanto nacionales co
 
 ## 🌎 Collaborations & Alliances | Colaboraciones y alianzas  
 
-### 🇲🇽 Mexican National Endeavors | Iniciativas nacionales  
+### 🇲🇽 Mexican National Endeavors | Proyectos e iniciativas nacionales  
 - 🔬 <a href="https://cv.cicataqro.ipn.mx/dsm/index.php/biocq/about" target="_blank">SECIHTI - LANCEI</a>  
 - 🌱 <a href="http://www.ecoemprende.net" target="_blank">SECTEI - BINOMIO IFE (Tecnológico de Monterrey) - IPN</a>  
 - 💡 <a href="https://investigacion.udgvirtual.udg.mx/" target="_blank">LúmiaLab – Universidad de Guadalajara Virtual</a>  
 - 🎶 <a href="https://www.gob.mx/cultura/acciones-y-programas/fonoteca-nacional" target="_blank">Fonoteca Nacional</a>
   
-### 🌐 International Alliances | Alianzas internacionales  
+### 🌐 International Alliances | Proyectos y alianzas internacionales  
 - 🎓 <a href="https://www.mondragon.edu/es/inicio" target="_blank">Universidad de Mondragón</a>  
 - 🤖 <a href="https://cis.ieee.org/conferences/task-forces/computational-intelligence-in-latin-america-task-force" target="_blank">IEEE Computational Intelligence in Latin America Task Force</a>  
 - 🏙️ <a href="https://senseable.mit.edu/" target="_blank">Senseable City Lab, MIT</a>  
