@@ -2,6 +2,7 @@
 
 🎓 **Full-time Faculty Researcher** at the *Centro de Investigación en Computación (CIC), Instituto Politécnico Nacional (IPN), Mexico City*  
 🔬 Member of the **National System of Researchers (SNII – Level II, SECIHTI)** 
+
 🏛️ National Memberships: **Academia de Ingenieria de Mexico**   
 🌐 International Memberships: **IEEE Senior** | **ACM** | **INNS**  
 
