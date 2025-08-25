@@ -3,7 +3,7 @@
 🎓 Full-time Faculty Researcher at the **Centro de Investigación en Computación (CIC), Instituto Politécnico Nacional (IPN), Mexico City**.  
 🔬 Researcher at **SECIHTI--SNII Level II** | Member of the Academia de Ingenieria Mexico | Senior Member of the **IEEE**, **ACM**, **INNS**.  
 🌍 Active collaborator with the following institutions:
-- Mexican National Endeavors: [SECIHTI - LANCEI](https://cv.cicataqro.ipn.mx/dsm/index.php/biocq/about), [SECTEI - BINOMIO IFE (Tecnologico de Monterrey) - IPN](www.ecoemprende.net), [Fonoteca Nacional](https://www.gob.mx/cultura/acciones-y-programas/fonoteca-nacional).
+- Mexican National Endeavors: [SECIHTI - LANCEI](https://cv.cicataqro.ipn.mx/dsm/index.php/biocq/about), [SECTEI - BINOMIO IFE (Tecnologico de Monterrey) - IPN](www.ecoemprende.net), [LúmiaLab - Universidad de Guadalajara Virtual](https://investigacion.udgvirtual.udg.mx/) [Fonoteca Nacional](https://www.gob.mx/cultura/acciones-y-programas/fonoteca-nacional). 
 - International alliances: [Universidad de Mondragon](https://www.mondragon.edu/es/inicio), [IEEE Computational Intelligence in Latin America Task Force](https://cis.ieee.org/conferences/task-forces/computational-intelligence-in-latin-america-task-force), [Senseable City Lab, MIT](https://senseable.mit.edu/), [City Science Lab, MIT](https://www.media.mit.edu/projects/city-science-network/overview/), [GRoup of InterAction and e-Learning (GRIAL) of the University of Salamanca](https://grial.usal.es/about), and the [ACM Education Advisory Committee (EAC)](https://www.acm.org/volunteers/teams/T84?clientNo=4218855&positionId=1221).  
 
 ## 🔎 Research Interests
@@ -14,10 +14,10 @@
 - Sustainable Development and Lifelong Learning  
 
 ## 📚 Selected Publications
-- *Heuristic-machine learning models for solar radiation forecasting*  
-- [*Mixed reality and digital twins for astronaut training*](https://doi.org/10.1016/j.actaastro.2024.01.034<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/e7b8aaa7-e066-4095-be83-caf98a68b98c" />)  
-- *Prospective narratives on global issues*  
-- *IDAS: Intelligent Driving Assistance System Using RAG*  
+- [*Heuristic-machine learning models for solar radiation forecasting in Köppen climate zones*](https://doi.org/10.1016/j.asoc.2025.112807)  
+- [*Mixed reality and digital twins for astronaut training*](https://doi.org/10.1016/j.actaastro.2024.01.034)
+- [*Prospective narratives on global issues: An AI-based pedagogical model for assessing complex thinking*](https://doi.org/10.3926/jotse.2445)  
+- [*IDAS: Intelligent Driving Assistance System Using RAG*](http://doi.org/10.1109/OJVT.2024.3447449)
 
 📄 Full list of publications: [Google Scholar](https://scholar.google.com/citations?user=ZLaDTq0AAAAJ&hl=es) | [ORCID](https://orcid.org/0000-0001-8627-4739)  
 
