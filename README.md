@@ -26,9 +26,9 @@ Participo activamente en colaboraciones multidisciplinarias, tanto nacionales co
 ## 🌎 Collaborations & Alliances | Colaboraciones y alianzas  
 
 ### 🇲🇽 Mexican National Endeavors | Proyectos e iniciativas nacionales  
-- 🔬 <a href="https://cv.cicataqro.ipn.mx/dsm/index.php/biocq/about" target="_blank">SECIHTI - LANCEI</a>  
-- 🌱 <a href="http://www.ecoemprende.net" target="_blank">SECTEI - BINOMIO IFE (Tecnológico de Monterrey) - IPN</a>  
-- 💡 <a href="https://investigacion.udgvirtual.udg.mx/" target="_blank">LúmiaLab – Universidad de Guadalajara Virtual</a>  
+- 🔬 <a href="https://cv.cicataqro.ipn.mx/dsm/index.php/biocq/about" target="_blank">SECIHTI--IPN-_IMT - LANCEI</a>  
+- 🌱 <a href="http://www.ecoemprende.net" target="_blank">SECTEI--IFE (Tecnológico de Monterrey)--IPN - EcoEmprende</a>
+- 💡 <a href="https://investigacion.udgvirtual.udg.mx/" target="_blank">Universidad de Guadalajara Virtual – LúmiaLab </a>  
 - 🎶 <a href="https://www.gob.mx/cultura/acciones-y-programas/fonoteca-nacional" target="_blank">Fonoteca Nacional</a>
   
 ### 🌐 International Alliances | Proyectos y alianzas internacionales  
