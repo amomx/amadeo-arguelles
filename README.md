@@ -32,12 +32,12 @@ Participo activamente en colaboraciones multidisciplinarias, tanto nacionales co
 - 🎶 <a href="https://www.gob.mx/cultura/acciones-y-programas/fonoteca-nacional" target="_blank">Fonoteca Nacional</a>
   
 ### 🌐 International Alliances | Proyectos y alianzas internacionales  
-- 🎓 <a href="https://www.mondragon.edu/es/inicio" target="_blank">Universidad de Mondragón</a>  
-- 🏙️ <a href="https://senseable.mit.edu/" target="_blank">Senseable City Lab, MIT</a>  
-- 🏛️ <a href="https://www.media.mit.edu/projects/city-science-network/overview/" target="_blank">City Science Lab, MIT</a>  
-- 📚 <a href="https://grial.usal.es/about" target="_blank">GRIAL Research Group, University of Salamanca</a>  
+- 🎓 <a href="https://www.mondragon.edu/es/inicio" target="_blank">Universidad de Mondragón - Gobernanza ética de la IA</a>  
+- 🏙️ <a href="https://senseable.mit.edu/" target="_blank">Senseable City Lab, MIT - Flatburn</a>  
+- 🏛️ <a href="https://www.media.mit.edu/projects/city-science-network/overview/" target="_blank">City Science Lab, MIT - SCL Mexico City</a>  
+- 📚 <a href="https://grial.usal.es/about" target="_blank">GRIAL Research Group, University of Salamanca - Open Education</a>  
 - 🧑‍🏫 <a href="https://www.acm.org/volunteers/teams/T84?clientNo=4218855&positionId=1221" target="_blank">ACM Education Advisory Committee (EAC)</a>
-- 🤖 <a href="https://cis.ieee.org/conferences/task-forces/computational-intelligence-in-latin-america-task-force" target="_blank">IEEE Computational Intelligence in Latin America Task Force</a>  
+- 🤖 <a href="https://cis.ieee.org/conferences/task-forces/computational-intelligence-in-latin-america-task-force" target="_blank">IEEE Computational Intelligence in Latin America Task Force</a> – <a href="https://la-cci.org/" target="_blank">2025 Latin American Conference on Computational Intelligence</a> 
 
 ---
 
