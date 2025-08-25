@@ -19,34 +19,34 @@ I am actively engaged in multidisciplinary collaborations, both nationally and i
 🏛️ Miembresías nacionales: **Academia de Ingeniería de México**.  
 🌐 Membresias internacionales: **IEEE Senior** | **ACM** | **INNS**.  
 
-Participo activamente en colaboraciones multidisciplinarias, tanto nacionales como internacionales, con enfoque en inteligencia artificial, inteligencia computacional, movilidad, gemelos digitales y desarrollo sostenible.  
+Participo activamente en colaboraciones multidisciplinarias, tanto nacionales como internacionales, con enfoque en inteligencia artificial, inteligencia computacional, movilidad, gemelos digitales, desarrollo sostenible y aprendizaje a lo largo de la vida.  
 
 ---
 
-## 🌎 Collaborations & Alliances | Colaboraciones y Alianzas  
+## 🌎 Collaborations & Alliances | Colaboraciones y alianzas  
 
-### 🇲🇽 Mexican National Endeavors | Iniciativas Nacionales  
-- 🔬 [SECIHTI - LANCEI](https://cv.cicataqro.ipn.mx/dsm/index.php/biocq/about)  
-- 🌱 [SECTEI - BINOMIO IFE (Tecnológico de Monterrey) - IPN](http://www.ecoemprende.net)  
-- 💡 [LúmiaLab – Universidad de Guadalajara Virtual](https://investigacion.udgvirtual.udg.mx/)  
-- 🎶 [Fonoteca Nacional](https://www.gob.mx/cultura/acciones-y-programas/fonoteca-nacional)  
-
-### 🌐 International Alliances | Alianzas Internacionales  
-- 🎓 [Universidad de Mondragón](https://www.mondragon.edu/es/inicio)  
-- 🤖 [IEEE Computational Intelligence in Latin America Task Force](https://cis.ieee.org/conferences/task-forces/computational-intelligence-in-latin-america-task-force)  
-- 🏙️ [Senseable City Lab, MIT](https://senseable.mit.edu/)  
-- 🏛️ [City Science Lab, MIT](https://www.media.mit.edu/projects/city-science-network/overview/)  
-- 📚 [GRIAL Research Group, University of Salamanca](https://grial.usal.es/about)  
-- 🧑‍🏫 [ACM Education Advisory Committee (EAC)](https://www.acm.org/volunteers/teams/T84?clientNo=4218855&positionId=1221)  
+### 🇲🇽 Mexican National Endeavors | Iniciativas nacionales  
+- 🔬 <a href="https://cv.cicataqro.ipn.mx/dsm/index.php/biocq/about" target="_blank">SECIHTI - LANCEI</a>  
+- 🌱 <a href="http://www.ecoemprende.net" target="_blank">SECTEI - BINOMIO IFE (Tecnológico de Monterrey) - IPN</a>  
+- 💡 <a href="https://investigacion.udgvirtual.udg.mx/" target="_blank">LúmiaLab – Universidad de Guadalajara Virtual</a>  
+- 🎶 <a href="https://www.gob.mx/cultura/acciones-y-programas/fonoteca-nacional" target="_blank">Fonoteca Nacional</a>
+  
+### 🌐 International Alliances | Alianzas internacionales  
+- 🎓 <a href="https://www.mondragon.edu/es/inicio" target="_blank">Universidad de Mondragón</a>  
+- 🤖 <a href="https://cis.ieee.org/conferences/task-forces/computational-intelligence-in-latin-america-task-force" target="_blank">IEEE Computational Intelligence in Latin America Task Force</a>  
+- 🏙️ <a href="https://senseable.mit.edu/" target="_blank">Senseable City Lab, MIT</a>  
+- 🏛️ <a href="https://www.media.mit.edu/projects/city-science-network/overview/" target="_blank">City Science Lab, MIT</a>  
+- 📚 <a href="https://grial.usal.es/about" target="_blank">GRIAL Research Group, University of Salamanca</a>  
+- 🧑‍🏫 <a href="https://www.acm.org/volunteers/teams/T84?clientNo=4218855&positionId=1221" target="_blank">ACM Education Advisory Committee (EAC)</a> 
 
 ---
 
 ## 🔎 Research Interests | Líneas de Investigación  
 - Artificial Intelligence & Computational Intelligence | Inteligencia Artificial e Inteligencia Computacional  
 - Smart Mobility & Intelligent Transportation Systems (C-V2X, traffic optimization, driver monitoring) | Movilidad Inteligente y Sistemas de Transporte (C-V2X, optimización de tráfico, monitoreo de conductores)  
-- Digital Twins & Mixed Reality for Aerospace and Education | Gemelos Digitales y Realidad Mixta para Aeroespacial y Educación  
-- Data Science & Learning Analytics | Ciencia de Datos y Analíticas de Aprendizaje  
-- Sustainable Development and Lifelong Learning | Desarrollo Sostenible y Aprendizaje a lo Largo de la Vida  
+- Digital Twins & Mixed Reality for Aerospace and Education | Gemelos digitales y realidad mixta para industria aeroespacial y educación  
+- Data Science & Learning Analytics | Ciencia de datos y analíticas de aprendizaje  
+- Sustainable Development and Lifelong Learning | Desarrollo sostenible y aprendizaje a lo largo de la vida  
 
 ---
 
