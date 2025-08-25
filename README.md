@@ -35,6 +35,8 @@
 - 🛰️ *TwinTrain-XR* – Immersive XR platform with digital twins for space operations.  
 
 ## 🤝 Let’s Connect 
+- 🌐 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=23395973700)
+- 🌐 [ResearcherID](https://www.webofscience.com/wos/author/record/K-4847-2013)
 - 📝 [Google Scholar](https://scholar.google.com/citations?user=ZLaDTq0AAAAJ&hl=es)  
 - 🧾 [ORCID](https://orcid.org/0000-0001-8627-4739)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/amadeomx/?trk=public-profile-join-page)  
