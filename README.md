@@ -76,7 +76,6 @@ Participo activamente en colaboraciones multidisciplinarias, tanto nacionales co
 ---
 
 ## 🤝 Let’s Connect | Contacto  
-## 🤝 Let’s Connect | Contacto  
 
 [![Scopus](https://img.shields.io/badge/Scopus-Elsevier-orange?style=flat&logo=elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=23395973700)  
 [![ResearcherID](https://img.shields.io/badge/Web%20of%20Science-ResearcherID-blue?style=flat&logo=clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/K-4847-2013)  
