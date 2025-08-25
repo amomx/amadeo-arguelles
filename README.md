@@ -51,10 +51,10 @@ Participo activamente en colaboraciones multidisciplinarias, tanto nacionales co
 ---
 
 ## 📚 Selected Publications | Publicaciones Destacadas  
-- [*Heuristic-machine learning models for solar radiation forecasting in Köppen climate zones*](https://doi.org/10.1016/j.asoc.2025.112807)  
-- [*Mixed reality and digital twins for astronaut training*](https://doi.org/10.1016/j.actaastro.2024.01.034)  
-- [*Prospective narratives on global issues: An AI-based pedagogical model for assessing complex thinking*](https://doi.org/10.3926/jotse.2445)  
-- [*IDAS: Intelligent Driving Assistance System Using RAG*](http://doi.org/10.1109/OJVT.2024.3447449)  
+- <a href="https://doi.org/10.1016/j.asoc.2025.112807" target="_blank"><i>Heuristic-machine learning models for solar radiation forecasting in Köppen climate zones</i></a>  
+- <a href="https://doi.org/10.1016/j.actaastro.2024.01.034" target="_blank"><i>Mixed reality and digital twins for astronaut training</i></a>  
+- <a href="https://doi.org/10.3926/jotse.2445" target="_blank"><i>Prospective narratives on global issues: An AI-based pedagogical model for assessing complex thinking</i></a>  
+- <a href="http://doi.org/10.1109/OJVT.2024.3447449" target="_blank"><i>IDAS: Intelligent Driving Assistance System Using RAG</i></a> 
 
 📄 Full list of publications | Lista completa de publicaciones:  
 [Google Scholar](https://scholar.google.com/citations?user=ZLaDTq0AAAAJ&hl=es) | [ORCID](https://orcid.org/0000-0001-8627-4739)  
